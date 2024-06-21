@@ -1,0 +1,80 @@
+{
+    "candidates": {
+        "Columbus House Captain": {
+            "CP1": {
+                "name": "Prince Singh",
+                "class": "",
+                "dob": "",
+                "image": "assests/Prince Singh.png",
+                "voters": []
+            },
+            "CP2": {
+                "name": "Pragya Jain",
+                "class": "",
+                "dob": "",
+                "image": "assests/Pragya Jain.png",
+                "voters": [
+                    "1a3"
+                ]
+            },
+            "CP3": {
+                "name": "Suchi Solanki",
+                "class": "",
+                "dob": "",
+                "image": "assests/Suchi Solanki.png",
+                "voters": [
+                    "05a15"
+                ]
+            },
+            "CP4": {
+                "name": "Nishil Panchal",
+                "class": "",
+                "dob": "",
+                "image": "assests/Nishil Panchal.png",
+                "voters": [
+                    "05a15"
+                ]
+            }
+        },
+        "Columbus House Vice Captain": {
+            "VC1": {
+                "name": "Bhavesh Parikh",
+                "class": "",
+                "dob": "",
+                "image": "assests/Bhavesh Parikh.png",
+                "voters": []
+            },
+            "VC2": {
+                "name": "Bhavya Aneja",
+                "class": "",
+                "dob": "",
+                "image": "assests/Bhavya Aneja.png",
+                "voters": []
+            },
+            "VC3": {
+                "name": "Rashi Rawal",
+                "class": "",
+                "dob": "",
+                "image": "assests/Rashi Rawal.png",
+                "voters": [
+                    "1a3",
+                    "05a15"
+                ]
+            },
+            "VC4": {
+                "name": "Utkarsh",
+                "class": "",
+                "dob": "",
+                "image": "assests/Utkarsh.png",
+                "voters": []
+            }
+        }
+    },
+    "voters": [
+        "1a3",
+        "05a15"
+    ],
+    "information": {
+        "desc": "Columbus House"
+    }
+}
